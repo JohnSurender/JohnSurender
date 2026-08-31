@@ -15,6 +15,55 @@ Create visual architecture diagrams for clarity and documentation
 
 Troubleshoot and optimise cloud deployments
 
+## 🛠️ Skills & Technologies
+
+<table>
+  <tr>
+    <td><strong>Cloud</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Infrastructure as Code</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bicep-0052CC?logo=azurepipelines&logoColor=white" />
+      <img src="https://img.shields.io/badge/ARM%20Templates-0078D4?logo=microsoftazure&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>DevOps & CI/CD</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure%20Pipelines-2560E0?logo=azurepipelines&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white" />
+      <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+
 🛠️ Tech Stack
 Cloud: Azure
 IaC: Terraform, ARM/Bicep

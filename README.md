@@ -1,19 +1,120 @@
-🌐 John Surender — Cloud Engineer | DevOps | Terraform | Azure
-Hi, I’m John, a Cloud & DevOps Engineer specialising in Azure, Terraform, CI/CD automation, and Infrastructure‑as‑Code.
-I design and build production‑ready, scalable, secure cloud architectures with clean module structure, strong documentation, and automated pipelines.
+<div align="center">
 
-🚀 What I Do
-Build modular Terraform architectures for Azure
+# 🌐 John Surender
+### Cloud Engineer | Infrastructure Engineer | DevOps | Terraform | Azure
 
-Design multi‑environment cloud infrastructure (dev/test/prod)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Cloud+Infrastructure+with+Code;Azure+%7C+Terraform+%7C+GitHub+Actions;Automating+Deployments+and+Simplifying+Operations;Designing+Secure+and+Scalable+Infrastructure" alt="Animated text describing cloud infrastructure, Azure, Terraform and automation" />
 
-Implement GitHub Actions CI/CD pipelines
+<br />
 
-Deploy global Azure services (App Service, CDN, Traffic Manager, DNS, Storage, VMs)
+<a href="https://www.linkedin.com/in/john-surender/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="https://github.com/JohnSurender">
+  <img src="https://img.shields.io/badge/GitHub-JohnSurender-181717?style=for-the-badge&logo=github&logoColor=white" alt="John Surender on GitHub" />
+</a>
 
-Create visual architecture diagrams for clarity and documentation
+</div>
 
-Troubleshoot and optimise cloud deployments
+---
+
+## 👋 About Me
+
+Hi, I’m John — a Cloud, Infrastructure & DevOps Engineer specialising in Azure, Terraform, CI/CD automation and Infrastructure as Code.
+
+I design and build scalable, secure cloud infrastructure with reusable modules, clear documentation and automated deployment pipelines.
+
+My focus is on making infrastructure easier to deploy, understand and maintain — from the initial architecture through to day-to-day operations.
+
+---
+
+## 🚀 What I Do
+
+- ☁️ Build and manage Azure cloud infrastructure.
+- 🧱 Develop modular, reusable Terraform configurations.
+- 🌍 Design infrastructure for dev, test and production environments.
+- ⚙️ Automate validation and deployment with GitHub Actions.
+- 🔀 Configure Azure App Service, CDN, Traffic Manager, DNS, Storage and VMs.
+- 📐 Create architecture diagrams and practical technical documentation.
+- 🔍 Troubleshoot deployments and optimise infrastructure.
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,terraform,githubactions,docker,linux,bash,python,git&perline=8" alt="Azure, Terraform, GitHub Actions, Docker, Linux, Bash, Python and Git" />
+
+</div>
+
+<br />
+
+| Area | Technologies |
+| :--- | :--- |
+| Cloud & Infrastructure | Microsoft Azure, Virtual Machines, Networking, DNS, Storage |
+| Infrastructure as Code | Terraform, ARM Templates, Bicep |
+| CI/CD & Automation | GitHub Actions, Azure DevOps |
+| Scripting | Python, Bash |
+| Tools & Platforms | Docker, Linux, Git |
+
+---
+
+## ⚙️ My Infrastructure Workflow
+
+```mermaid
+flowchart LR
+    A["📐 Design"] --> B["🧱 Terraform"]
+    B --> C["🔍 Validate & Plan"]
+    C --> D["✅ Review"]
+    D --> E["☁️ Deploy to Azure"]
+    E --> F["📊 Operate & Improve"]
+    F -.-> A
+
+    style A fill:#0f172a,stroke:#38bdf8,color:#ffffff
+    style B fill:#0f172a,stroke:#a78bfa,color:#ffffff
+    style C fill:#0f172a,stroke:#38bdf8,color:#ffffff
+    style D fill:#0f172a,stroke:#34d399,color:#ffffff
+    style E fill:#0f172a,stroke:#38bdf8,color:#ffffff
+    style F fill:#0f172a,stroke:#34d399,color:#ffffff
+```
+
+---
+
+## 📦 Featured Project — BWO Cloud Infrastructure
+
+An Azure infrastructure project built with Terraform, bringing together modular infrastructure, deployment automation and architecture documentation.
+
+### Key Features
+
+- 🧱 Modular Infrastructure as Code.
+- ⚙️ CI/CD automation with GitHub Actions.
+- 🔐 Remote Terraform state management.
+- 🌐 Global routing and CDN configuration.
+- 📐 Visual architecture documentation.
+
+---
+
+## 🎯 Engineering Principles
+
+- Automate repeatable work.
+- Keep infrastructure modular and maintainable.
+- Review infrastructure changes before deployment.
+- Document decisions, not just configurations.
+- Design with security, reliability and clarity in mind.
+
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn: [John Surender](https://www.linkedin.com/in/john-surender/)
+- GitHub: [@JohnSurender](https://github.com/JohnSurender)
+
+<div align="center">
+
+### ☁️ Turning complex cloud problems into clear, repeatable infrastructure.
+
+</div>
 
 ## 🛠️ Skills & Technologies
 
